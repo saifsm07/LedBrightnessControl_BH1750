@@ -12,7 +12,7 @@ void setup()
   Serial.begin(9600); 
   Wire.begin(); 
   GY30.begin();
-  Serial.println("SAIF LX WORKSHOP");
+  Serial.println("AHMAD SAIF");
   pinMode(LED,OUTPUT);
 }
 void loop()
